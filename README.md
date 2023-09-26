@@ -4,7 +4,7 @@ Saída esperada após execução do programa:
 
 <img src="./media/tela-front.png" display="flex">
 
-#IMPORTANTE:
+# IMPORTANTE:
 
 Para colocar o frontend para funcionar, colocar uma máquina EC2 rodando o Apache WebServer.
 Para isso, instalar dentro da EC2:
