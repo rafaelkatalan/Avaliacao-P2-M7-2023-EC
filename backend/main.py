@@ -4,7 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 import uvicorn
 import psycopg2
 
-# Constantes
+# Constantes (serão substituidas por valores reais do banco de dados apenas no EC2)
 DB_USER = "meuuserawsrds"
 DB_PASSWORD = "postgres"
 DB_HOST = "database-postgres.c36tibwlwhak.us-east-1.rds.amazonaws.com"
